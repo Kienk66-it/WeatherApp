@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <!-- Thanh tìm kiếm -->
+    <string name="search_hint">Enter city name</string>
+    <string name="search_button">Search</string>
+
+    <!-- Thời tiết hiện tại -->
+    <string name="feels_like">Feels like: %.1f°C</string>
+    <string name="humidity">Humidity: %d%%</string>
+
+    <!-- Dự báo -->
+    <string name="hourly_forecast_label">Hourly Forecast</string>
+    <string name="daily_forecast_label">Daily Forecast</string>
+
+    <!-- Thông báo -->
+    <string name="enter_city_error">Please enter a city name</string>
+    <string name="location_denied">Location permission denied</string>
+</resources>

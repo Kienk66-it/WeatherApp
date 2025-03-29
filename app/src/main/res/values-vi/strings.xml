@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ứng dụng Thời tiết</string>
+
+    <!-- Thanh tìm kiếm -->
+    <string name="search_hint">Nhập tên thành phố</string>
+    <string name="search_button">Tìm kiếm</string>
+
+    <!-- Thời tiết hiện tại -->
+    <string name="feels_like">Cảm giác như: %.1f°C</string>
+    <string name="humidity">Độ ẩm: %d%%</string>
+
+    <!-- Dự báo -->
+    <string name="hourly_forecast_label">Dự báo theo giờ</string>
+    <string name="daily_forecast_label">Dự báo theo ngày</string>
+
+    <!-- Thông báo -->
+    <string name="enter_city_error">Vui lòng nhập tên thành phố</string>
+    <string name="location_denied">Quyền vị trí bị từ chối</string>
+</resources>
